@@ -1,4 +1,4 @@
    # Keys do Skibid Lister
    # KEY | validade (AAAA-MM-DD) | HWID
-   SKIBID-DONO-8K2P-X7QM
-   SKIBID-LISTER-K7G5-KL87 | 2026-10-10
+   SKIBID-DONO-8K2P-X7QM   brunel
+   SKIBID-LISTER-K7G5-KL87  class
