@@ -1,4 +1,4 @@
    # Keys do Skibid Lister
    # KEY | validade (AAAA-MM-DD) | HWID
    SKIBID-DONO-8K2P-X7QM
-   SKIBID-LISTER-A8F4-J7K0
+   SKIBID-LISTER-J7H5-M0F3
