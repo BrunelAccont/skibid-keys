@@ -1,4 +1,6 @@
    # Keys do Skibid Lister
    # KEY | validade (AAAA-MM-DD) | HWID
    SKIBID-DONO-8K2P-X7QM
-   
+
+# bn7.seven (1402488302124138518) · Vitalício · criada 2026-09-30
+SKIBID-GKFY-47UR-MZJ6 |  | SKIBID-DONO-8K2P-X7QM
