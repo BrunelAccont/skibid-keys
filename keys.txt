@@ -2,4 +2,4 @@
    # KEY | validade (AAAA-MM-DD) | HWID
    SKIBID-DONO-8K2P-X7QM
    SKIBID-GKFY-47UR-MZJ6 | |
-
+sha256:093c3d7d7ef4214ae09e20a5c9da274d92ea100e59cedeb526dedec99d71cce4 | 2026-10-09 |
