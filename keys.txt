@@ -2,3 +2,6 @@
    # KEY | validade (AAAA-MM-DD) | HWID
    SKIBID-DONO-8K2P-X7QM
    SKIBID-GKFY-47UR-MZJ6 | |
+
+# SKIBID-YS96-••••-•••• · brunelzz (977343796213870612) · Semanal · criada 2026-10-02
+sha256:dc422dfd88d5c0029411dcbe9c6e8436b717f9fb543bc6491a9d1245eea95bda | 2026-10-09 |
